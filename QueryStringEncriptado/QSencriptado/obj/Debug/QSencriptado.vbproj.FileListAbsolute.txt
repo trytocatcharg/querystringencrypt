@@ -1,0 +1,16 @@
+C:\Users\fernando.sanchez\Documents\blog\QS encriptado\QueryStringEncriptado\QSencriptado\obj\Debug\QSencriptado.Resources.resources
+C:\Users\fernando.sanchez\Documents\blog\QS encriptado\QueryStringEncriptado\QSencriptado\obj\Debug\QSencriptado.vbproj.GenerateResource.Cache
+C:\Users\fernando.sanchez\Documents\blog\QS encriptado\QueryStringEncriptado\QSencriptado\bin\Debug\QSencriptado.dll
+C:\Users\fernando.sanchez\Documents\blog\QS encriptado\QueryStringEncriptado\QSencriptado\bin\Debug\QSencriptado.pdb
+C:\Users\fernando.sanchez\Documents\blog\QS encriptado\QueryStringEncriptado\QSencriptado\bin\Debug\QSencriptado.xml
+C:\Users\fernando.sanchez\Documents\blog\QS encriptado\QueryStringEncriptado\QSencriptado\obj\Debug\QSencriptado.dll
+C:\Users\fernando.sanchez\Documents\blog\QS encriptado\QueryStringEncriptado\QSencriptado\obj\Debug\QSencriptado.xml
+C:\Users\fernando.sanchez\Documents\blog\QS encriptado\QueryStringEncriptado\QSencriptado\obj\Debug\QSencriptado.pdb
+D:\Blog WP\QS encriptado\QueryStringEncriptado\QSencriptado\bin\Debug\QSencriptado.dll
+D:\Blog WP\QS encriptado\QueryStringEncriptado\QSencriptado\bin\Debug\QSencriptado.pdb
+D:\Blog WP\QS encriptado\QueryStringEncriptado\QSencriptado\bin\Debug\QSencriptado.xml
+D:\Blog WP\QS encriptado\QueryStringEncriptado\QSencriptado\obj\Debug\QSencriptado.Resources.resources
+D:\Blog WP\QS encriptado\QueryStringEncriptado\QSencriptado\obj\Debug\QSencriptado.vbproj.GenerateResource.Cache
+D:\Blog WP\QS encriptado\QueryStringEncriptado\QSencriptado\obj\Debug\QSencriptado.dll
+D:\Blog WP\QS encriptado\QueryStringEncriptado\QSencriptado\obj\Debug\QSencriptado.xml
+D:\Blog WP\QS encriptado\QueryStringEncriptado\QSencriptado\obj\Debug\QSencriptado.pdb

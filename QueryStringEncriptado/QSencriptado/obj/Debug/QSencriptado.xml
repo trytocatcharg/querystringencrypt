@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+QSencriptado
+</name>
+</assembly>
+<members>
+<member name="P:QSencriptado.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:QSencriptado.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:QSencriptado.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:QSencriptado.QueryString.#ctor(System.Collections.Specialized.NameValueCollection)">
+	<summary>
+ Recibe del request.querystring los valores
+ </summary>
+	<param name="clone">QueryString de la pagina actual</param>
+	<remarks></remarks>
+</member><member name="M:QSencriptado.QueryString.#ctor(System.String)">
+	<summary>
+ permite convertir un string en un NameValueCollection con el QueryString
+ </summary>
+	<param name="vConversion">String que concatena todo el queryString</param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

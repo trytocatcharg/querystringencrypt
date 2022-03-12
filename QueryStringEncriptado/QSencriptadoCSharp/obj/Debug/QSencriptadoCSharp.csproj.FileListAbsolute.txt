@@ -1,0 +1,9 @@
+C:\Users\fernando.sanchez\Documents\blog\QS encriptado\QueryStringEncriptado\QSencriptadoCSharp\obj\Debug\QSencriptadoCSharp.csprojResolveAssemblyReference.cache
+C:\Users\fernando.sanchez\Documents\blog\QS encriptado\QueryStringEncriptado\QSencriptadoCSharp\bin\Debug\QSencriptadoCSharp.dll
+C:\Users\fernando.sanchez\Documents\blog\QS encriptado\QueryStringEncriptado\QSencriptadoCSharp\bin\Debug\QSencriptadoCSharp.pdb
+C:\Users\fernando.sanchez\Documents\blog\QS encriptado\QueryStringEncriptado\QSencriptadoCSharp\obj\Debug\QSencriptadoCSharp.dll
+C:\Users\fernando.sanchez\Documents\blog\QS encriptado\QueryStringEncriptado\QSencriptadoCSharp\obj\Debug\QSencriptadoCSharp.pdb
+D:\Blog WP\QS encriptado\QueryStringEncriptado\QSencriptadoCSharp\bin\Debug\QSencriptadoCSharp.dll
+D:\Blog WP\QS encriptado\QueryStringEncriptado\QSencriptadoCSharp\bin\Debug\QSencriptadoCSharp.pdb
+D:\Blog WP\QS encriptado\QueryStringEncriptado\QSencriptadoCSharp\obj\Debug\QSencriptadoCSharp.dll
+D:\Blog WP\QS encriptado\QueryStringEncriptado\QSencriptadoCSharp\obj\Debug\QSencriptadoCSharp.pdb
